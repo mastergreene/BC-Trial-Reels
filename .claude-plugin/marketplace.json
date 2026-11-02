@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "trial-reels",
+  "owner": { "name": "mastergreene" },
+  "description": "Multi-variant short-form video tools",
+  "plugins": [
+    {
+      "name": "trial-reels",
+      "displayName": "Trial Reels",
+      "source": "./",
+      "description": "Cut a long video into clips and render each in three edit vibes (Punchy, Raw, News) for A/B/C testing.",
+      "author": { "name": "mastergreene" }
+    }
+  ]
+}

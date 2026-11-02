@@ -1,0 +1,380 @@
+[
+ {
+  "text": "So",
+  "startMs": 0,
+  "endMs": 120,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "I",
+  "startMs": 120,
+  "endMs": 230,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "am",
+  "startMs": 230,
+  "endMs": 300,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "pleased",
+  "startMs": 300,
+  "endMs": 740,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "to",
+  "startMs": 740,
+  "endMs": 860,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "announce",
+  "startMs": 860,
+  "endMs": 1400,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "that",
+  "startMs": 1400,
+  "endMs": 1560,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "a",
+  "startMs": 1560,
+  "endMs": 1610,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "re-elected",
+  "startMs": 1610,
+  "endMs": 2200,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "Carroll",
+  "startMs": 2200,
+  "endMs": 2360,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "Labor",
+  "startMs": 2360,
+  "endMs": 2600,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "Government",
+  "startMs": 2600,
+  "endMs": 3410,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "will",
+  "startMs": 3410,
+  "endMs": 3600,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "deliver",
+  "startMs": 3600,
+  "endMs": 4000,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "500",
+  "startMs": 4000,
+  "endMs": 5390,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "more",
+  "startMs": 5390,
+  "endMs": 6020,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "graduate",
+  "startMs": 6020,
+  "endMs": 6740,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "nurses",
+  "startMs": 6740,
+  "endMs": 7270,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "and",
+  "startMs": 7270,
+  "endMs": 7550,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "midwives",
+  "startMs": 7550,
+  "endMs": 8270,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "for",
+  "startMs": 8270,
+  "endMs": 8540,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "Victoria's",
+  "startMs": 8540,
+  "endMs": 9440,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "hospital",
+  "startMs": 9440,
+  "endMs": 10170,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "system.",
+  "startMs": 10170,
+  "endMs": 10940,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "We",
+  "startMs": 10940,
+  "endMs": 11170,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "know",
+  "startMs": 11170,
+  "endMs": 11490,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "that",
+  "startMs": 11490,
+  "endMs": 11870,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "we",
+  "startMs": 11870,
+  "endMs": 12040,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "need",
+  "startMs": 12040,
+  "endMs": 12420,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "a",
+  "startMs": 12420,
+  "endMs": 12500,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "strong",
+  "startMs": 12500,
+  "endMs": 13140,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "pipeline",
+  "startMs": 13140,
+  "endMs": 13810,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "of",
+  "startMs": 13810,
+  "endMs": 14130,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "nurses",
+  "startMs": 14130,
+  "endMs": 14550,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "and",
+  "startMs": 14550,
+  "endMs": 14830,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "graduate",
+  "startMs": 14830,
+  "endMs": 15670,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "nurses",
+  "startMs": 15670,
+  "endMs": 16140,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "in",
+  "startMs": 16140,
+  "endMs": 16320,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "the",
+  "startMs": 16320,
+  "endMs": 16600,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "system",
+  "startMs": 16600,
+  "endMs": 17280,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "to",
+  "startMs": 17280,
+  "endMs": 17560,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "continue",
+  "startMs": 17560,
+  "endMs": 18240,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "to",
+  "startMs": 18240,
+  "endMs": 18350,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "deliver",
+  "startMs": 18350,
+  "endMs": 18940,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "that",
+  "startMs": 18940,
+  "endMs": 19220,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "world-class",
+  "startMs": 19220,
+  "endMs": 20080,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "care",
+  "startMs": 20080,
+  "endMs": 20400,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "for",
+  "startMs": 20400,
+  "endMs": 20720,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "Victorians",
+  "startMs": 20720,
+  "endMs": 21420,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "right",
+  "startMs": 21420,
+  "endMs": 22090,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "across",
+  "startMs": 22090,
+  "endMs": 22290,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "our",
+  "startMs": 22290,
+  "endMs": 22530,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "health",
+  "startMs": 22530,
+  "endMs": 23000,
+  "timestampMs": null,
+  "confidence": null
+ },
+ {
+  "text": "system.",
+  "startMs": 23000,
+  "endMs": 23560,
+  "timestampMs": null,
+  "confidence": null
+ }
+]

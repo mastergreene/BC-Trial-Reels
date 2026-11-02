@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "trial-reels",
+  "displayName": "Trial Reels",
+  "version": "1.0.0",
+  "description": "Turn a long video (Dropbox link or local file) into 20–40s vertical clips, each rendered in three edit vibes — Punchy, Raw and News — for A/B/C retention testing.",
+  "author": { "name": "mastergreene" },
+  "repository": "https://github.com/mastergreene/BC-Trial-Reels",
+  "keywords": ["video", "remotion", "reels", "tiktok", "ab-testing", "whisper"]
+}
